@@ -1,0 +1,157 @@
+{
+  "doctors": [
+    {
+      "name": "ujih",
+      "salary": "bhb",
+      "gender": "gyhv",
+      "age": "gyg",
+      "specialization": "gyg",
+      "id": 1
+    },
+    {
+      "name": "snehitha",
+      "salary": "55000",
+      "gender": "female",
+      "age": "22",
+      "specialization": "cardialogist",
+      "id": 2
+    },
+    {
+      "name": "jahnavi",
+      "salary": "80000",
+      "gender": "female",
+      "age": "23",
+      "specialization": "gynic",
+      "id": 3
+    },
+    {
+      "name": "kd",
+      "salary": "70000",
+      "gender": "female",
+      "age": "21",
+      "specialization": "ent",
+      "id": 4
+    },
+    {
+      "name": "snehitha",
+      "salary": "80000",
+      "gender": "female",
+      "age": "22",
+      "specialization": "cardialogist",
+      "id": 5
+    },
+    {
+      "name": "jahnavi",
+      "salary": "55000",
+      "gender": "female",
+      "age": "21",
+      "specialization": "gynic",
+      "id": 6
+    },
+    {
+      "name": "kd",
+      "salary": "60000",
+      "gender": "female",
+      "age": "23",
+      "specialization": "ent",
+      "id": 7
+    },
+    {
+      "name": "aishu",
+      "salary": "55000",
+      "gender": "female",
+      "age": "22",
+      "specialization": "mental doctor",
+      "id": 8
+    },
+    {
+      "name": "srivalli",
+      "salary": "5500",
+      "gender": "female",
+      "age": "22",
+      "specialization": "cardialogist",
+      "id": 9
+    },
+    {
+      "name": "srija",
+      "salary": "80000",
+      "gender": "female",
+      "age": "22",
+      "specialization": "gynocologist",
+      "id": 10
+    },
+    {
+      "name": "mounika",
+      "salary": "60000",
+      "gender": "female",
+      "age": "21",
+      "specialization": "mental doctor",
+      "id": 11
+    }
+  ],
+  "patients": [
+    {
+      "name": "lukesundar",
+      "weight": "34",
+      "gender": "male",
+      "age": "20",
+      "disease": "insomnia",
+      "doctor": "kd",
+      "id": 7
+    },
+    {
+      "name": "durgaprasad",
+      "weight": "24",
+      "gender": "male",
+      "age": "22",
+      "disease": "gastric",
+      "doctor": "jahnavi",
+      "id": 8
+    },
+    {
+      "name": "chandu",
+      "weight": "25",
+      "gender": "male",
+      "age": "22",
+      "disease": "shorttemper",
+      "doctor": "snehitha",
+      "id": 9
+    },
+    {
+      "name": "varshith",
+      "weight": "24",
+      "gender": "male",
+      "age": "22",
+      "disease": "insomnia",
+      "doctor": "snehitha",
+      "id": 10
+    },
+    {
+      "name": "basanth",
+      "weight": "27",
+      "gender": "male",
+      "age": "22",
+      "disease": "mental",
+      "doctor": "aishu",
+      "id": 11
+    },
+    {
+      "name": "mounika",
+      "weight": "25",
+      "gender": "female",
+      "age": "23",
+      "disease": "headache",
+      "doctor": "kd",
+      "id": 13
+    },
+    {
+      "name": "srija",
+      "weight": "24",
+      "gender": "female",
+      "age": "22",
+      "disease": "sleepping",
+      "doctor": "srija",
+      "id": 14
+    }
+  ]
+}
